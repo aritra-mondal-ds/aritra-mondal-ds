@@ -191,11 +191,4 @@ I focus on building projects with:
 
 # Connect With Me
 
-💼 LinkedIn  
-https://www.linkedin.com/in/aritra-mondal-66702021/
-
-📧 Email  
-aritramondal100@gmail.com
-
-🌐 Portfolio  
-Coming soon
+💼 [LinkedIn](https://www.linkedin.com/in/aritra-mondal-66702021/) | 📧 Email: [aritramondal100@gmail.com](mailto:aritramondal100@gmail.com) | 🌐 Portfolio: Coming soon
