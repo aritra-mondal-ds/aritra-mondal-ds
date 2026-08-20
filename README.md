@@ -88,87 +88,6 @@ Linux • CI/CD Automation
 
 ---
 
-# Featured Projects
-
-## 🚀 Multi-Asset Trading Platform
-
-An end-to-end quantitative trading platform combining financial data engineering, feature engineering, and machine learning workflows.
-
-Features:
-
-- Multi-source market data ingestion
-- Data cleaning and normalization pipelines
-- 70+ engineered financial features
-- Parquet-based data storage
-- Backtesting and walk-forward validation
-- ML-based prediction experiments
-
-**Technologies**
-
-Python • CCXT • MetaTrader5 • yFinance • Pandas • Parquet • Docker
-
-🔗 Repository: [crypto-trading-bot](repository-link)
-
----
-
-## ⚡ Distributed Spark ETL Framework
-
-A data engineering project demonstrating scalable data processing patterns inspired by production environments.
-
-Features:
-
-- Distributed data transformations
-- Batch ETL workflows
-- Data validation
-- Performance optimization
-- Cloud-oriented architecture
-
-**Technologies**
-
-Apache Spark • Scala • PySpark • AWS
-
-🔗 Repository: [spark-etl-framework](repository-link)
-
----
-
-## 📚 Book Recommendation ML Pipeline
-
-An end-to-end machine learning workflow covering data preparation, feature engineering, model training and evaluation.
-
-Features:
-
-- Data ingestion and preprocessing
-- Feature engineering
-- Regression modelling
-- Model evaluation
-
-**Technologies**
-
-Python • Pandas • Scikit-Learn
-
-🔗 Repository: [book-recommendation-system](repository-link)
-
----
-
-## 🛡️ Network Intrusion Detection System
-
-A cybersecurity project implementing network traffic monitoring and intrusion detection using SNORT.
-
-Features:
-
-- TCP/IP traffic analysis
-- IDS rule configuration
-- Log analysis
-- False positive reduction
-
-**Technologies**
-
-Linux • TCP/IP • SNORT
-
-🔗 Repository: [network-intrusion-detection](repository-link)
-
----
-
 # Certifications
 
 - 🏅 Neo4j Certified Professional (2024)
@@ -191,4 +110,4 @@ I focus on building projects with:
 
 # Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/aritra-mondal-66702021/) | 📧 Email: [aritramondal100@gmail.com](mailto:aritramondal100@gmail.com) | 🌐 Portfolio: Coming soon
+💼 [LinkedIn](https://www.linkedin.com/in/aritra-mondal-66702021/) | 📧 Email: [aritramondal100@gmail.com](mailto:aritramondal100@gmail.com)
